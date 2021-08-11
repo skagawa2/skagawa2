@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- My name is Shaw Kagawa and I am an undergraduate studying Computer Science + Statistics and Integrative Biology Honors at the University of Illinois at Urbana-Champaign.
+- 🌱 I’m currently learning **about genomics**
+- 📫 How to reach me: **email (skagawa2@illinois.edu)**
+- 😄 Pronouns: **he/him/his**
+- ⚡ Fun fact: **I am a member of the Marching Illini!**
