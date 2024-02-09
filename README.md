@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - My name is Shaw Kagawa and am currently an Computational Associate at the Broad Institute of MIT and Harvard! I studied Computer Science + Statistics and Integrative Biology Honors at the University of Illinois at Urbana-Champaign and graduated in December 2022.
 - 🌱 I’m currently interested in **computational genomics, statistical learning, data engineering, and everything in between!**
-- 📫 How to reach me: **email (skagawa2@illinois.edu)**
+- 📫 How to reach me: **email (shaw.kagawa0227@gmail.com)**
 - 😄 Pronouns: **he/him/his**
 - ⚡ Fun fact: **I was a member of the Marching Illini and the Blue Devils B Drum and Bugle Corps!**
